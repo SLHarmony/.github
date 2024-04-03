@@ -1,4 +1,12 @@
-<img src="https://raw.githubusercontent.com/SLHarmony/.github/main/profile/harmony-full-white.svg" width="50%" />
+<p align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/SLHarmony/.github/main/profile/harmony-full-white.svg" width="50%" />
+  <br>
+  <br>
+  Synchronize your music, from everywhere
+  <br>
+  <br>
+</p>
 
 |  PROJECTS |
 |:--:|
